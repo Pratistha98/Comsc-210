@@ -1,0 +1,3 @@
+﻿  BetterSimulation.cpp
+c:\users\prati\documents\comsc210\assignments\assignment11\bettersimulation.cpp(62): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Assignment11.vcxproj -> C:\Users\prati\Documents\COmsc210\Assignments\Assignment11\Debug\Assignment11.exe

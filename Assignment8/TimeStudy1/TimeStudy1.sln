@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TimeStudy1", "TimeStudy1.vcxproj", "{3F159A66-7F65-4FB2-A18E-6D5FB953BB46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F159A66-7F65-4FB2-A18E-6D5FB953BB46}.Debug|x64.ActiveCfg = Debug|x64
+		{3F159A66-7F65-4FB2-A18E-6D5FB953BB46}.Debug|x64.Build.0 = Debug|x64
+		{3F159A66-7F65-4FB2-A18E-6D5FB953BB46}.Debug|x86.ActiveCfg = Debug|Win32
+		{3F159A66-7F65-4FB2-A18E-6D5FB953BB46}.Debug|x86.Build.0 = Debug|Win32
+		{3F159A66-7F65-4FB2-A18E-6D5FB953BB46}.Release|x64.ActiveCfg = Release|x64
+		{3F159A66-7F65-4FB2-A18E-6D5FB953BB46}.Release|x64.Build.0 = Release|x64
+		{3F159A66-7F65-4FB2-A18E-6D5FB953BB46}.Release|x86.ActiveCfg = Release|Win32
+		{3F159A66-7F65-4FB2-A18E-6D5FB953BB46}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AD1A9C2-B21F-4535-A960-63B247A0AE84}
+	EndGlobalSection
+EndGlobal

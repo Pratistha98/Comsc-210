@@ -1,0 +1,5 @@
+﻿  TimeStudy.2.cpp
+c:\users\prati\documents\comsc210\assignments\assignment8\timingstudy2\timestudy.2.cpp(37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\prati\documents\comsc210\assignments\assignment8\timingstudy2\mydynamicarray.h(81): warning C4172: returning address of local variable or temporary
+c:\users\prati\documents\comsc210\assignments\assignment8\timingstudy2\mystaticarray.h(38): warning C4172: returning address of local variable or temporary
+  TimingStudy2.vcxproj -> C:\Users\prati\Documents\COmsc210\Assignments\Assignment8\TimingStudy2\Debug\TimingStudy2.exe

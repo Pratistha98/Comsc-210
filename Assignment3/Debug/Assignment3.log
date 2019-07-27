@@ -1,0 +1,6 @@
+﻿  MyDynamicArray.cpp
+c:\users\prati\documents\comsc210\assignments\assignment3\mydynamicarray.cpp(59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\prati\documents\comsc210\assignments\assignment3\mydynamicarray.cpp(60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\prati\documents\comsc210\assignments\assignment3\mydynamicarray.cpp(93): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\prati\documents\comsc210\assignments\assignment3\mydynamicarray.cpp(96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Assignment3.vcxproj -> C:\Users\prati\Documents\COmsc210\Assignments\Assignment3\Debug\Assignment3.exe
